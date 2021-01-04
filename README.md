@@ -8,8 +8,6 @@ TensorFlow is an open source software library for numerical computation using da
 
 More info [here](http://tensorflow.org).
 
-
-
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -23,11 +21,12 @@ More info [here](http://tensorflow.org).
 - [Community](#community)
 - [Books](#books)
 
-<!-- /MarkdownTOC -->
-
+<!-- MarkdownTOC -->
 
 <a name="github-tutorials" />
+
 ## Tutorials
+
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
@@ -37,8 +36,11 @@ More info [here](http://tensorflow.org).
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in Tensorflow with LSTM on cellphone sensor data
 
 
+
 <a name="github-projects" />
+
 ## Models/Projects
+
 * [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API 
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style 
@@ -65,13 +67,17 @@ More info [here](http://tensorflow.org).
 * [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
 <a name="github-powered-by" />
+
 ## Powered by TensorFlow
+
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) - Implementation of 'YOLO : Real-Time Object Detection'
 * [Magenta](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
 
 
 <a name="libraries" />
+
 ## Libraries
+
 * [Scikit Flow (TF Learn)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
@@ -83,7 +89,9 @@ More info [here](http://tensorflow.org).
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
 <a name="video" />
-##Videos
+
+## Videos
+
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
@@ -96,10 +104,10 @@ More info [here](http://tensorflow.org).
 * [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
 
-
-
 <a name="papers" />
-##Papers
+
+## Papers
+
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
@@ -114,6 +122,7 @@ More info [here](http://tensorflow.org).
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
 
 ## Blog posts
+
 * [Why TensorFlow will change the Game for AI](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai)
 * [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
 * [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
@@ -123,8 +132,8 @@ More info [here](http://tensorflow.org).
 * [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 * [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
 
-
 <a name="community" />
+
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
@@ -133,7 +142,9 @@ More info [here](http://tensorflow.org).
 
 
 <a name="books" />
+
 ## Books
+
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 * [Tensorflow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use Tensorflow from the basics of graph computing, to deep learning models to using it in production environmemts - Bleeding Edge Press
@@ -142,7 +153,9 @@ More info [here](http://tensorflow.org).
 
 
 <a name="contributions" />
+
 ## Contributions
+
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
@@ -153,8 +166,8 @@ Also, when you noticed that listed repository should be deprecated.
  
 More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md)
 
-
 <a name="credits" />
+
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
